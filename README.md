@@ -4,7 +4,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RomeoChavez&theme=tokyonight" alt="mystreak"/>
 </p>
 
 <br>
