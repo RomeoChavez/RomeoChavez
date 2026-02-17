@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**RomeoChavez/RomeoChavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📈 Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
+</p>
+
+<br>
+
+<div align="Center">
+<h1>Skills</h1>
+</div>
+
+<div align="Center">
+
+| Frontend | Backend | Languege | Technology |
+| ------------- | ------------- | ------------- | ------------- |
+| <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vue,ps"/> | <img src="https://skillicons.dev/icons?i=mysql"/> | <img src="https://skillicons.dev/icons?i=py,cpp,js"/> | <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,pycharm"/> |
+
+</div>
+
+<br>
+<br>
+<br>
+
+<div align="Center">
+<h1>Operating Systems</h1>
+
+<img src="https://skillicons.dev/icons?i=windows,ubuntu,linux"/>
+
+</div>
+
+<br>
+<br>
