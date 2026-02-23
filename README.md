@@ -38,28 +38,49 @@ class WhoAmI:
 
 
 <div align="center">
-  <h1>Skills</h1>
-  <table>
-    <tr>
-      <th>Frontend</th>
-      <th>Backend</th>
-      <th>Language</th>
-      <th>Technology</th>
-    </tr>
-    <tr>
-      <td><img src="https://skillicons.dev/icons?i=html,css,bootstrap,vue,ps"/></td>
-      <td><img src="https://skillicons.dev/icons?i=mysql"/></td>
-      <td><img src="https://skillicons.dev/icons?i=py,cpp,js"/></td>
-      <td><img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,pycharm"/></td>
-    </tr>
-  </table>
-</div>
+
+<h1>🚀 Skills & Technologies</h1>
+
+<p>
+  Tecnologías, lenguajes y herramientas que utilizo en el desarrollo de software
+</p>
 
 <br>
 
+<table>
+  <tr>
+    <th>🎨 Frontend</th>
+    <th>⚙️ Backend</th>
+    <th>🧠 Lenguajes</th>
+    <th>🛠️ Herramientas</th>
+    <th> Diseño</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vue,dotnet,pug" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=py,cpp,cs,js" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github,git,docker,vscode,visualstudio,pycharm,arduino,qt" />
+    </td>
+    <td>
+        <img src="https://skillicons.dev/icons?i=ps,ai,pr" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+</div>
+
 <div align="center">
   <h1>Operating Systems</h1>
-  <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux"/>
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,mint,linux"/>
 </div>
 
 <br>
