@@ -55,8 +55,12 @@ class RomeoChavez:
 🖥️ Operating Systems
 <p> <img src="https://skillicons.dev/icons?i=windows,ubuntu,mint,arch" alt="Operating Systems"> </p>
 📊 GitHub Activity
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RomeoChavez&theme=tokyonight" alt="GitHub Streak"> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=RomeoChavez&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" alt="GitHub Activity Graph"> </p>
-📫 Contact
+<p align="center">
+  <img src="https://github-readme-streak-stats.deno.dev/?user=RomeoChavez&theme=tokyonight" alt="GitHub Streak">
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RomeoChavez&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" alt="GitHub Activity Graph">
+</p>
 <p> <a href="mailto:chavezcuellarromeo@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </p> <br> <div align="center">
 
 <i>Always learning. Always building.</i>
